@@ -22,6 +22,6 @@ Here is how you can get involved (if you haven't already!) in the community:
 
 - 🔗[Website](https://sparkhack.org)
 - 🔗[Handbook](https://sparkhandbook.vercel.app)
-- 🔗[Our Newsletter](https://sparkcommmunity.substack.com)
 - 🔗[Twitter](https://twitter.com/sparkhackorg)
 - 🔗[LinkedIn](https://www.linkedin.com/company/sparkorg)
+- 🔗[Our Newsletter](https://sparkcommmunity.substack.com)
