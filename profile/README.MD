@@ -20,8 +20,8 @@ Here is how you can get involved (if you haven't already!) in the community:
 
 ### If you are worried about your next steps, don't worry we Have all the links down below ↓
 
-- 🔗[Website](https://sparkhack.org)
+- 🔗[Website](https://theastra.org)
 - 🔗[Handbook](https://sparkhandbook.vercel.app)
 - 🔗[Twitter](https://twitter.com/astraorg)
 - 🔗[LinkedIn](https://www.linkedin.com/company/sparkorg)
-- 🔗[Our Newsletter](https://sparkcommmunity.substack.com)
+- 🔗[Our Newsletter](https://astraorg.substack.com)
