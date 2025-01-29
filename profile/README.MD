@@ -1,3 +1,4 @@
+https://pbs.twimg.com/profile_banners/1677736337087283200/1737030969/1500x500
 ## Hey! Welcome to Astra 👋
 
 We're building an ecosystem to empower indie-builders and student developers through hackathons.
